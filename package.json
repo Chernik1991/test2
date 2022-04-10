@@ -2,7 +2,7 @@
   "name": "test2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Chernik1991.github.io",
+  "homepage": "https://Chernik1991.github.io/test2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.4",
